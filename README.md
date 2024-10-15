@@ -11,8 +11,9 @@ The Caesar Cipher is a type of substitution cipher where each letter in the plai
 - Decrypts messages using the same shift value in reverse.
 - Supports both uppercase and lowercase letters.
 - Leaves non-alphabetical characters (spaces, punctuation) unchanged.
-Clone this repository
-git clone https://github.com/your-username/your-repo-name.git
+  
+Clone this repository:git clone https://github.com/your-username/your-repo-name.git
+
 Example Usage
 Enter your message: Hello World
 Enter the shift value (number): 3
